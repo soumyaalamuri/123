@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2017-02-15 20:48:57</sys_created_on>
+        <sys_id>0a5a28d81d013200964f0ebfba7ed1cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_a_a.x_a.user</sys_name>
+        <sys_package display_value="a" source="x_a">b719a0d81d013200964f0ebfba7ed180</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="a">b719a0d81d013200964f0ebfba7ed180</sys_scope>
+        <sys_security_acl display_value="x_a_a">ca5a28d81d013200964f0ebfba7ed1cc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0a5a28d81d013200964f0ebfba7ed1cf</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2017-02-15 20:48:57</sys_updated_on>
+        <sys_user_role display_value="x_a.user" name="x_a.user">d649e0d81d013200964f0ebfba7ed1dc</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

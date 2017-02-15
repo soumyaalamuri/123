@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="a" max_length="40" name="x_a_a" type="collection"/>
+</database>
